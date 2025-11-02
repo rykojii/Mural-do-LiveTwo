@@ -1,3 +1,14 @@
 {
-  "blocks": []
+  "blocks": [
+    {
+      "type": "text",
+      "title": "",
+      "content": "",
+      "imageUrl": "",
+      "imageAlt": "",
+      "link": "",
+      "tag": "",
+      "createdAt": 1762122568204
+    }
+  ]
 }
