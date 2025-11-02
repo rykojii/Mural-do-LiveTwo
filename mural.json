@@ -2,13 +2,13 @@
   "blocks": [
     {
       "type": "text",
-      "title": "gaga",
-      "content": "gaga",
+      "title": "",
+      "content": "",
       "imageUrl": "",
       "imageAlt": "",
       "link": "",
       "tag": "",
-      "createdAt": 1762096914134
+      "createdAt": 1762097161413
     }
   ]
 }
