@@ -1,6 +1,20 @@
 {
   "blocks": [
     {
+      "type": "image",
+      "title": "teste",
+      "role": "teste",
+      "roleColor": "#38bdf8",
+      "content": "",
+      "imageUrl": "https://wallpapers.com/images/featured/imagens-incriveis-k287z98ruunquo28.jpg",
+      "imageAlt": "",
+      "imageText": "<p><strong>testando testo </strong></p><p><strong>teste</strong></p>",
+      "imageTextPosition": "bottom",
+      "link": "test",
+      "tag": "tete",
+      "createdAt": 1762182438080
+    },
+    {
       "type": "html",
       "title": "teste 1",
       "role": "teste 1",
