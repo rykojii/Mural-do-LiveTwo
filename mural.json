@@ -1,6 +1,20 @@
 {
   "blocks": [
     {
+      "type": "html",
+      "title": "ghdgg",
+      "role": "dtjjrfjrtjr",
+      "roleColor": "#a78bfa",
+      "content": "<p>Boa, Felipe 👊. Agora é só trocar a cor <strong>accent</strong> (que hoje está azul <code>#38bdf8</code>) para o tom teal que você pediu: <code>#39ADAA</code>.</p><h2>✅ Como ajustar no <code>2mural.html</code> (e também no <code>2editor.html</code> se quiser manter padrão)</h2><h3>1. No CSS, altere a variável <code>--accent</code></h3><p>No início do <code>&lt;style&gt;</code> você tem:</p><p><br></p><pre class=\"ql-syntax\" spellcheck=\"false\">:root {\n  --bg: #111827;\n  --text: #f9fafb;\n  --muted: #9ca3af;\n  --card: rgba(31, 41, 55, 0.5);\n  --border: rgba(255, 255, 255, 0.1);\n  --accent: #38bdf8;   /* azul atual */\n  --shadow: rgba(0, 0, 0, 0.1);\n}\n</pre><p>➡️ Troque para:</p><p><br></p><pre class=\"ql-syntax\" spellcheck=\"false\">:root {\n  --bg: #111827;\n  --text: #f9fafb;\n  --muted: #9ca3af;\n  --card: rgba(31, 41, 55, 0.5);\n  --border: rgba(255, 255, 255, 0.1);\n  --accent: #39ADAA;   /* teal */\n  --shadow: rgba(0, 0, 0, 0.1);\n}\n</pre><h3>2. Onde essa cor é usada</h3><ul><li><strong>Botões (</strong><code><strong>.btn.primary</strong></code><strong>)</strong> → borda e fundo em hover.</li><li><strong>Etiqueta (</strong><code><strong>.tag</strong></code><strong>)</strong> → borda e texto.</li><li><strong>Hover dos cards</strong> → borda muda para <code>--accent</code>.</li><li><strong>Links</strong> → cor de destaque.</li></ul><p>Tudo que antes era azul agora ficará teal.</p><h2>🎨 Resultado</h2><ul><li>A interface mantém o mesmo design, mas o destaque (botões, etiquetas, links, bordas em hover) passa a ser teal <code>#39ADAA</code>.</li><li>O fundo sólido dos blocos continua escuro, garantindo contraste e legibilidade.</li><li>O layout segue compatível com iframe.</li></ul><p>👉 Quer que eu já te entregue o <code>2mural.html</code> e o <code>2editor.html</code> completos com essa alteração aplicada, prontos para substituir?</p>",
+      "imageUrl": "",
+      "imageAlt": "",
+      "imageText": "",
+      "imageTextPosition": "bottom",
+      "link": "",
+      "tag": "",
+      "createdAt": 1762185469560
+    },
+    {
       "type": "image",
       "title": "dgdgdg",
       "role": "teste",
