@@ -1,32 +1,3 @@
 {
-  "blocks": [
-    {
-      "type": "text",
-      "title": "teste 2",
-      "role": "teste 2",
-      "roleColor": "#a78bfa",
-      "content": "teste 2",
-      "imageUrl": "",
-      "imageAlt": "",
-      "imageText": "",
-      "imageTextPosition": "bottom",
-      "link": "teste 2",
-      "tag": "teste 2",
-      "createdAt": 1762179398809
-    },
-    {
-      "type": "text",
-      "title": "teste 1",
-      "role": "teste 1",
-      "roleColor": "#38bdf8",
-      "content": "teste 1",
-      "imageUrl": "",
-      "imageAlt": "",
-      "imageText": "",
-      "imageTextPosition": "bottom",
-      "link": "",
-      "tag": "teste 1",
-      "createdAt": 1762179373318
-    }
-  ]
+  "blocks": []
 }
