@@ -2,6 +2,20 @@
   "blocks": [
     {
       "type": "html",
+      "title": "",
+      "role": "",
+      "roleColor": "#38bdf8",
+      "content": "",
+      "imageUrl": "",
+      "imageAlt": "",
+      "imageText": "",
+      "imageTextPosition": "bottom",
+      "link": "",
+      "tag": "",
+      "createdAt": 1762191721895
+    },
+    {
+      "type": "html",
       "title": "zsgzsdgzsg",
       "role": "zgsdfg",
       "roleColor": "#4ade80",
