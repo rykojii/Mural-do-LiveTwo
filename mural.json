@@ -1,6 +1,18 @@
 {
   "blocks": [
     {
+      "type": "image",
+      "title": "fafafafaf",
+      "content": "",
+      "imageUrl": "https://wallpapers.com/images/featured/imagens-incriveis-k287z98ruunquo28.jpg",
+      "imageAlt": "",
+      "imageText": "aafafafafaa",
+      "imageTextPosition": "bottom",
+      "link": "",
+      "tag": "",
+      "createdAt": 1762175942611
+    },
+    {
       "type": "html",
       "title": "fafafafa",
       "content": "blocks.slice().reverse().forEach(b => {\n  const card = document.createElement('article');\n  ...\n  container.appendChild(card);\n});\n",
